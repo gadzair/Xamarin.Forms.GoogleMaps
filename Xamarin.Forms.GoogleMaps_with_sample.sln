@@ -7,11 +7,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xamarin.Forms.GoogleMaps.An
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xamarin.Forms.GoogleMaps.iOS", "Xamarin.Forms.GoogleMaps\Xamarin.Forms.GoogleMaps.iOS\Xamarin.Forms.GoogleMaps.iOS.csproj", "{AB1D9407-E4B2-403C-88CD-9CAC7A6914EF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XFGoogleMapSample.local", "XFGoogleMapSample\XFGoogleMapSample\XFGoogleMapSample.local.csproj", "{E5FEBCA7-6127-4002-B7B3-3EE4CC362B25}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XFGoogleMapSample_local", "XFGoogleMapSample\XFGoogleMapSample\XFGoogleMapSample_local.csproj", "{E5FEBCA7-6127-4002-B7B3-3EE4CC362B25}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XFGoogleMapSample.iOS.local", "XFGoogleMapSample\iOS\XFGoogleMapSample.iOS.local.csproj", "{998D7BC0-1D6D-4ED4-95DD-783B833E3805}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XFGoogleMapSample_local.iOS", "XFGoogleMapSample\iOS\XFGoogleMapSample_local.iOS.csproj", "{998D7BC0-1D6D-4ED4-95DD-783B833E3805}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XFGoogleMapSample.Droid.local", "XFGoogleMapSample\Droid\XFGoogleMapSample.Droid.local.csproj", "{A931BE17-CE63-48CF-8EB0-C29E16AB658C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XFGoogleMapSample_local.Android", "XFGoogleMapSample\Droid\XFGoogleMapSample_local.Android.csproj", "{A931BE17-CE63-48CF-8EB0-C29E16AB658C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

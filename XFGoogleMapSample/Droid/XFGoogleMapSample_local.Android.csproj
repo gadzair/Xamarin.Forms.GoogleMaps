@@ -92,20 +92,6 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\Xamarin.Forms.GoogleMaps\Xamarin.Forms.GoogleMaps\Xamarin.Forms.GoogleMaps.csproj">
-      <Project>{F1C8F5A0-A55D-4C7D-9737-472F7AC222D4}</Project>
-      <Name>Xamarin.Forms.GoogleMaps</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\..\Xamarin.Forms.GoogleMaps\Xamarin.Forms.GoogleMaps.Android\Xamarin.Forms.GoogleMaps.Android.csproj">
-      <Project>{D12EADE4-1457-4126-8EA7-9BEDF5393409}</Project>
-      <Name>Xamarin.Forms.GoogleMaps.Android</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\XFGoogleMapSample\XFGoogleMapSample_local.csproj">
-      <Project>{E5FEBCA7-6127-4002-B7B3-3EE4CC362B25}</Project>
-      <Name>XFGoogleMapSample_local</Name>
-    </ProjectReference>
-  </ItemGroup>
-  <ItemGroup>
     <Compile Include="MainActivity.cs" />
     <Compile Include="Resources\Resource.designer.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

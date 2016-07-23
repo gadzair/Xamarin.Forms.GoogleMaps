@@ -106,17 +106,19 @@
     <Reference Include="Google.Maps">
       <HintPath>..\packages\Xamarin.Google.iOS.Maps.1.13.1.0\lib\Xamarin.iOS10\Google.Maps.dll</HintPath>
     </Reference>
-    <Reference Include="Xamarin.Forms.GoogleMaps.iOS">
-      <HintPath>..\packages\Xamarin.Forms.GoogleMaps.1.5.0\lib\Xamarin.iOS10\Xamarin.Forms.GoogleMaps.iOS.dll</HintPath>
-    </Reference>
-    <Reference Include="Xamarin.Forms.GoogleMaps">
-      <HintPath>..\packages\Xamarin.Forms.GoogleMaps.1.5.0\lib\Xamarin.iOS10\Xamarin.Forms.GoogleMaps.dll</HintPath>
-    </Reference>
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\XFGoogleMapSample\XFGoogleMapSample.csproj">
       <Project>{E5FEBCA7-6127-4002-B7B3-3EE4CC362B25}</Project>
       <Name>XFGoogleMapSample</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Xamarin.Forms.GoogleMaps\Xamarin.Forms.GoogleMaps.iOS\Xamarin.Forms.GoogleMaps.iOS.csproj">
+      <Project>{AB1D9407-E4B2-403C-88CD-9CAC7A6914EF}</Project>
+      <Name>Xamarin.Forms.GoogleMaps.iOS</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Xamarin.Forms.GoogleMaps\Xamarin.Forms.GoogleMaps\Xamarin.Forms.GoogleMaps.csproj">
+      <Project>{F1C8F5A0-A55D-4C7D-9737-472F7AC222D4}</Project>
+      <Name>Xamarin.Forms.GoogleMaps</Name>
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>

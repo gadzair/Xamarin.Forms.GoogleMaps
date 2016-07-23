@@ -108,10 +108,6 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\XFGoogleMapSample\XFGoogleMapSample.csproj">
-      <Project>{E5FEBCA7-6127-4002-B7B3-3EE4CC362B25}</Project>
-      <Name>XFGoogleMapSample_local</Name>
-    </ProjectReference>
     <ProjectReference Include="..\..\Xamarin.Forms.GoogleMaps\Xamarin.Forms.GoogleMaps\Xamarin.Forms.GoogleMaps.csproj">
       <Project>{F1C8F5A0-A55D-4C7D-9737-472F7AC222D4}</Project>
       <Name>Xamarin.Forms.GoogleMaps</Name>
@@ -120,7 +116,7 @@
       <Project>{AB1D9407-E4B2-403C-88CD-9CAC7A6914EF}</Project>
       <Name>Xamarin.Forms.GoogleMaps.iOS</Name>
     </ProjectReference>
-    <ProjectReference Include="..\XFGoogleMapSample\XFGoogleMapSample.local.csproj">
+    <ProjectReference Include="..\XFGoogleMapSample\XFGoogleMapSample_local.csproj">
       <Project>{E5FEBCA7-6127-4002-B7B3-3EE4CC362B25}</Project>
       <Name>XFGoogleMapSample_local</Name>
     </ProjectReference>

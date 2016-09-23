@@ -3,13 +3,27 @@
 	<metadata minClientVersion="2.8.3">
 		<id>Xamarin.Forms.GoogleMaps</id>
 		<title>Xamarin.Forms.GoogleMaps</title>
-		<version>1.5.1-beta1</version>
+		<version>1.6.1-beta1</version>
 		<releaseNotes>
-# 1.5.1-beta1
+
+# 1.6.1-beta1
+
+## Bug Fixes
+
+* #73 [Android]get_Map returns NULL POINTER EXCEPTION(Support Google Play-services ver.32)
+* [Android]Set null to Pin.Icon is does not work
+
+# 1.6.0
+
+## New Features
+
+* PR#62 Generation of Pin Icon from Xamarin Views
+* #52 Support for Ground Overlays
 
 ## Bug Fixes
 
 * #30 Map.Pins.Add doesn't work when page OnAppearing
+* #68 [Android]Duplicate Pin when Pins.Add in OnAppearing 
 
 # 1.5.0
 
